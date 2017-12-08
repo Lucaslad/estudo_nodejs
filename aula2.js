@@ -17,5 +17,3 @@ var server = http.createServer(function (req, res) {
 server.listen(3000, function () {
   console.log('Servidor rodando na porta 3000')
 })
-
-// Testando uma mudança
